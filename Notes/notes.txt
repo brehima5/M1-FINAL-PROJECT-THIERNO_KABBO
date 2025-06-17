@@ -1,0 +1,9 @@
+Outline & Plan : Jun 17, 25
+
+- Task1: Cleaning Data
+    - Check for dtypes and fix it
+    - Check for duplicates and remove them
+    - Check for missing-ness and impute
+    - Check for data validation
+
+Make notes folder and create notes.txt
