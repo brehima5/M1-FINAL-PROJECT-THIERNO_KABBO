@@ -14,7 +14,7 @@ Our analysis addressed the following key business questions:
 
 2. **Understand Customer Behavior**: What items do customers spend most on?
 
-3. **Optimize Operations**: Which payment methods and locations drive the most revenue?
+3. **Optimize Operations**: Which payment methods drive the most revenue?
 
 4. **Data Quality Assessment**: What issues exist in our transaction data?
 
@@ -77,7 +77,7 @@ We implemented a systematic 2-step cleaning process:
 **Weekday vs Weekend Analysis:**
 - **Weekdays**: $60,706.08 total revenue (6,802 transactions, $8.92 avg)
 - **Weekends**: $24,446.04 total revenue (2,738 transactions, $8.93 avg)
-- **Insight**: Weekdays generate significantly more total revenue due to higher transaction volume
+- **Insight**: Weekdays generate significantly more total revenue due to higher transaction volume, but in average, there is no significance difference.
 
 **Daily Performance:**
 - **Best Day**: Sunday ($12,420.65)
@@ -107,7 +107,7 @@ We implemented a systematic 2-step cleaning process:
 4. **Excel vs Python Coordination**: Ensuring consistency between Excel and Python analysis approaches
 
 ### Methodology Decisions
-- Used median for Quantity imputation due to skewed distribution
+- Used median for Quantity imputation due to discret type of data
 - Used mean for Price Per Unit due to normal distribution
 - Chose to drop Transaction Date missing values to maintain data integrity
 - Preserved missing Payment Method and Location data for transparency in analysis
