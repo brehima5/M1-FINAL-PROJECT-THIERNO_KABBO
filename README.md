@@ -142,3 +142,5 @@ We implemented a systematic 2-step cleaning process:
 3. Regular data quality audits to prevent future issues
 4. Consider automated data validation rules
 
+### Kanban Board For Project Management
+https://www.notion.so/kabbo/The-Marcy-Lab-School-DA-Fellowship-214709faef5980e08dd9c5af9e7c41ee?source=copy_link
