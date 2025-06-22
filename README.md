@@ -61,6 +61,7 @@ We implemented a systematic 2-step cleaning process:
 3. Smoothie: $12,631.66
 4. Juice: $10,042.20
 5. Cake: $9,825.06
+![Screenshot 2025-06-22 at 5 09 07 PM](https://github.com/user-attachments/assets/050b4ee9-ddf9-4304-86bc-48760652e692)
 
 **Top Products by Quantity Sold:**
 1. Coffee: 3,425 units
@@ -68,11 +69,14 @@ We implemented a systematic 2-step cleaning process:
 3. Salad: 3,314 units
 4. Cake: 3,278 units
 5. Sandwich: 3,266 units
+![Screenshot 2025-06-22 at 5 08 47 PM](https://github.com/user-attachments/assets/dc764601-617b-4070-bb50-e144054f18d9)
 
 ### Time-Based Insights
 **Monthly Revenue Performance:**
 - **Highest**: June ($7,409.88), October ($7,343.66), January ($7,249.60)
 - **Lowest**: February ($6,667.20)
+![Screenshot 2025-06-22 at 5 04 01 PM](https://github.com/user-attachments/assets/3d1618be-cbfc-4f40-a17d-7feb42439334)
+![Screenshot 2025-06-22 at 5 05 13 PM](https://github.com/user-attachments/assets/c854d3d0-6ffb-4be0-865f-65eb58d7498c)
 
 **Weekday vs Weekend Analysis:**
 - **Weekdays**: $60,706.08 total revenue (6,802 transactions, $8.92 avg)
@@ -82,11 +86,15 @@ We implemented a systematic 2-step cleaning process:
 **Daily Performance:**
 - **Best Day**: Sunday ($12,420.65)
 - **Worst Day**: Wednesday ($11,774.85)
+![Screenshot 2025-06-22 at 5 05 44 PM](https://github.com/user-attachments/assets/c0176d41-fe38-4554-8f60-5eb5faf1d493)
+![Screenshot 2025-06-22 at 5 07 50 PM](https://github.com/user-attachments/assets/91b9dfac-a124-4c7c-8f08-d6ee9aec769c)
 
 ### Customer Behavior Patterns
 **Treat Items Analysis:**
 - Weekday treat sales: 4,553 items (0.67 treats per transaction)
 - Weekend treat sales: 1,818 items (0.66 treats per transaction)
+![Screenshot 2025-06-22 at 5 10 37 PM](https://github.com/user-attachments/assets/0a42266f-969c-4d15-bc46-d65ae0898df1)
+![Screenshot 2025-06-22 at 5 10 57 PM](https://github.com/user-attachments/assets/b05a0b9e-9e23-4c77-b4df-50a4fe153d3b)
 - **Finding**: Treat consumption remains consistent regardless of busy periods
 
 **Payment Method Preferences:**
